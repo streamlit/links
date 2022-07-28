@@ -12,7 +12,7 @@
 
 Getting your own Streamlit `links page` up and running is really easy, just follow the following 3 steps:
 
-**Step 1**. [Click here](https://github.com/dataprofessor/links/generate) to generate a copy of this repository. Next, name your new repository to anything you'd like except for `your username`.github.io
+**Step 1**. [Click here](https://github.com/streamlit/links/generate) to generate a copy of this repository. Next, name your new repository to anything you'd like except for `your username`.github.io
 
 **Step 2**. Customize the contents of the newly generated `links page` by editing the `streamlit_app.py` file:
 
